@@ -1,0 +1,15 @@
+const firebaseConfig = {
+
+  apiKey: "AIzaSyC4pNRNb_eXlJeUN0KF2y0PC0Qe_Em6gO4",
+
+  authDomain: "libreriapython.firebaseapp.com",
+
+  projectId: "libreriapython",
+
+  storageBucket: "libreriapython.firebasestorage.app",
+
+  messagingSenderId: "982608350922",
+
+  appId: "1:982608350922:web:b3df1b630bbf5619f72e33"
+
+};

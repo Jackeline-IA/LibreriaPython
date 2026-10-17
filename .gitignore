@@ -1,0 +1,25 @@
+# Environment variables
+.env
+
+# Firebase service account credentials
+*-firebase-adminsdk-*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Django
+db.sqlite3
+/staticfiles/
+/media/
+
+# IDE
+.vscode/
+.idea/
+firebase/serviceAccountKey.json
